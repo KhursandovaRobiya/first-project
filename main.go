@@ -15,4 +15,5 @@ func main() {
 	rub = sum * tjsToRub
 	fmt.Printf("%.2f сомони = %.2f доллар\n", sum, usd)
 	fmt.Printf("%.2f сомони = %.2f рубль", sum, rub)
+	fmt.Println("Hello from master")
 }
